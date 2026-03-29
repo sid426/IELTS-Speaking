@@ -1,0 +1,5 @@
+node_modules/
+*.log
+tencent-docs-proxy/*.log
+docx_build/
+docx_build_v2/

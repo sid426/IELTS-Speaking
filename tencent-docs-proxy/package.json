@@ -1,0 +1,11 @@
+{
+  "name": "tencent-docs-proxy",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Minimal stdio-to-HTTP MCP proxy for Tencent Docs",
+  "main": "proxy.js",
+  "scripts": {
+    "start": "node proxy.js",
+    "check": "node --check proxy.js"
+  }
+}
